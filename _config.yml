@@ -2,4 +2,4 @@
 name: Loves website
 url: "http://lkildetoft.github.io"
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
