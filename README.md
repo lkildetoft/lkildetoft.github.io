@@ -1,5 +1,6 @@
-# Love Kildetoft
-## Physicist, awesomemist, pianist?
+<center># Love Kildetoft</center>
+<center>## Physicist, awesomemist, pianist?</center>
 
-# WEBSITE UNDER CONSTRUCTION 
-### Check back soon
+<center># WEBSITE UNDER CONSTRUCTION</center>
+
+<center>### Check back soon!</center>
