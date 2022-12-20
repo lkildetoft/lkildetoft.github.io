@@ -1,6 +1,7 @@
-<center># Love Kildetoft</center>
-<center>## Physicist, awesomemist, pianist?</center>
+# Love Kildetoft
+## Physicist, awesomemist, pianist?
 
-<center># WEBSITE UNDER CONSTRUCTION</center>
+# WEBSITE UNDER CONSTRUCTION
+![UNDER CONSTRUCTION](Under_construction_graphic.gif "Look at him go")
 
-<center>### Check back soon!</center>
+### Check back soon!
