@@ -22,5 +22,6 @@ my magnum opus, currently being used for my masters project. Simulates the fluor
 
 https://github.com/lkildetoft/ICG-sim
 
-##### My bachelor thesis
+### My bachelor thesis
+
 https://lup.lub.lu.se/student-papers/search/publication/9049610
