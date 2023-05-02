@@ -9,14 +9,17 @@ I *really* like Monte-Carlo simulations (https://en.wikipedia.org/wiki/Monte_Car
 
 ### Random walkers on a 3-dimensional lattice 
 that interact by destroying eachother when they meet. Somehow analogous to gas molecules in a box.
+
 https://github.com/lkildetoft/Vicious-walkers
 
 ### The Monty-Hall problem 
 (see https://en.wikipedia.org/wiki/Monty_Hall_problem)
+
 https://github.com/lkildetoft/Monty-Hall-problem
 
 ### ICG-sim,
 my magnum opus, currently being used for my masters project. Simulates the fluorescence from indocyanine-green obtained when illuminated with a near-infrared incoherent light source, specifically in a physiology which is obtained after a patient has undergone surgery for esophageal cancer (esophagectomy). 
+
 https://github.com/lkildetoft/ICG-sim
 
 ##### My bachelor thesis
