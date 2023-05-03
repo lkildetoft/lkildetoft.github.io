@@ -13,7 +13,7 @@ that interact by destroying eachother when they meet. Somehow analogous to gas m
 [Github link](https://github.com/lkildetoft/Vicious-walkers)
 
 ### The Monty-Hall problem 
-(see https://en.wikipedia.org/wiki/Monty_Hall_problem)
+see [wiki](https://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 [Github link](https://github.com/lkildetoft/Monty-Hall-problem)
 
